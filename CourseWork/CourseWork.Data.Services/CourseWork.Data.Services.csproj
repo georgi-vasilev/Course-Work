@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CourseWork.Common\CourseWork.Common.csproj" />
+    <ProjectReference Include="..\CourseWork.Data.Models\CourseWork.Data.Models.csproj" />
+    <ProjectReference Include="..\CourseWork.Data\CourseWork.Data.csproj" />
+    <ProjectReference Include="..\CourseWork.Mapping\CourseWork.Mapping.csproj" />
+    <ProjectReference Include="..\CourseWork.ViewModels\CourseWork.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

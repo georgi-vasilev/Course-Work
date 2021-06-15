@@ -1,0 +1,26 @@
+﻿@model CourseWork.ViewModels.Cards.CardsListViewModel
+<hr />
+<div class="index-div bg-blur border border-white">
+    <h1>Here all of our cards on the website!</h1>
+    <hr class="bg-primary w-75">
+    <div class="row">
+        @foreach (var card in this.Model.Cards)
+        {<div class="col-sm">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="@card.ImageUrl" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@card.Name</h5>
+                    </div>
+                    <div class="card-body">
+                        <a asp-controller="Cards" asp-action="AddToCollection" asp-route-id="@card.Id" class="btn btn-block btn-primary">Add to collection</a>
+
+                        <a asp-controller="Cards" asp-action="ById" asp-route-id="@card.Id" class="btn btn-block btn-primary">Info</a>
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <hr />
+</div>
+<partial name="_PagingPartial" model="@Model" />

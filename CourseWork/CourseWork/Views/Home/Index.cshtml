@@ -1,0 +1,40 @@
+﻿@model CourseWork.ViewModels.Index.IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="index-div bg-blur border border-white">
+    <h1>Welcome to Yu-Gi-Oh personal cards collection</h1>
+    <hr class="bg-primary w-75">
+    @if (!this.User.Identity.IsAuthenticated)
+    {
+        <h3>On our platform you will create and collect Yu-Gi-Oh game cards.</h3>
+        <h3>
+            <a class="text-primay" href="/Users/Login">Login</a>
+            if you have an account or
+            <a class="text-primay" href="/Users/Register">Register</a>
+            now and check our deals.
+        </h3>
+    }
+    @if (this.User.Identity.IsAuthenticated)
+    {
+            <div class="row">
+                @foreach (var card in this.Model.RandomCards)
+                {
+                    <div class="col-sm">
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="@card.ImageUrl" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">@card.Name</h5>
+                            </div>
+                            <div class="card-body">
+                                <a asp-controller="Cards" asp-action="AddToCollection" asp-route-id="@card.Id" class="btn btn-block btn-primary">Add to collection</a>
+                                <a asp-controller="Cards" asp-action="ById" asp-route-id="@card.Id" class="btn btn-block btn-primary">Info</a>
+                            </div>
+                        </div>
+
+                    </div>
+                }
+            </div>      
+    }
+</div>

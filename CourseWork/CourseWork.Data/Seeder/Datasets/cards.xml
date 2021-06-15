@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Cards>
+	<Card>
+    <Name>3-Hump Lacooda</Name>
+    <ImageUrl>https://ms.yugipedia.com//c/c2/3HumpLacooda-DR2-EN-C-UE.jpg</ImageUrl>
+    <Attack>500</Attack>
+    <Defense>1500</Defense>
+    <Description>If there are 3 face-up 3-Hump Lacooda Card on your side of the field, Tribute 2 of them to draw 3 Card.</Description>
+  </Card>
+  <Card>
+    <Name>4-Starred Ladybug of Doom</Name>
+    <ImageUrl>https://tcgplayer-cdn.tcgplayer.com/product/21715_200w.jpg</ImageUrl>
+    <Attack>800</Attack>
+    <Defense>1200</Defense>
+    <Description>Flip: Destroy all face-up Level 4 monsters on your opponent's side of the field.</Description>
+  </Card>
+  <Card>
+    <Name>7 Colored Fish</Name>
+    <ImageUrl>https://images-na.ssl-images-amazon.com/images/I/51hmZvSNUNL.__AC_SX300_SY300_QL70_ML2_.jpg</ImageUrl>
+    <Attack>1800</Attack>
+    <Defense>800</Defense>
+    <Description>A rare rainbow fish that has never been caught by mortal man</Description>
+  </Card>
+  <Card>
+    <Name>8-Claws Scorpion</Name>
+    <ImageUrl>https://storage.googleapis.com/ygoprodeck.com/pics/14261867.jpg</ImageUrl>
+    <Attack>300</Attack>
+    <Defense>200</Defense>
+    <Description>Once per turn, you can flip this card into face-down Defenseense Position. When this card attacks an opponent's face-down Defenseense Position monster, this card's Attack becomes 2400 during damage calculation only.</Description>
+  </Card>
+  <Card>
+    <Name>A Cat of Ill Omen</Name>
+    <ImageUrl>https://images-na.ssl-images-amazon.com/images/I/51uF%2Bp9HvHL._AC_.jpg</ImageUrl>
+    <Attack>500</Attack>
+    <Defense>300</Defense>
+    <Description>FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If Necrovalley is on the field, you can add the selected Trap Card to your hand instead.</Description>
+  </Card>
+  <Card>
+    <Name>A-Team: Trap Disposal Unit</Name>
+    <ImageUrl>https://ms.yugipedia.com//9/96/ATeamTrapDisposalUnit-DR3-EN-R-UE.jpg</ImageUrl>
+    <Attack>300</Attack>
+    <Defense>400</Defense>
+    <Description>This effect can be used during either player's turn. When your opponent activates a Trap Card, Tribute this face-up card to negate the activation of the Trap Card and destroy it.</Description>
+  </Card>
+  <Card>
+    <Name>A/D Changer</Name>
+    <ImageUrl>https://ms.yugipedia.com//thumb/c/cc/ADChanger-BPW2-NA-C-1E.png/300px-ADChanger-BPW2-NA-C-1E.png</ImageUrl>
+    <Attack>100</Attack>
+    <Defense>100</Defense>
+    <Description>You can remove from play this card in your Graveyard to select 1 monster on the field. Change its battle position.</Description>
+  </Card>
+  <Card>
+    <Name>Abaki</Name>
+    <ImageUrl>https://ms.yugipedia.com//3/37/Abaki-YSDS-EN-C-1E.png</ImageUrl>
+    <Attack>1700</Attack>
+    <Defense>1100</Defense>
+    <Description>When this card is destroyed and sent to the Graveyard by battle, both players take 500 damage.</Description>
+  </Card>
+  <Card>
+		<Name>Abare Ushioni</Name>
+	<ImageUrl>https://ms.yugipedia.com//thumb/4/4d/AbareUshioni-DR3-EN-C-UE.jpg/300px-AbareUshioni-DR3-EN-C-UE.jpg</ImageUrl>
+		<Attack>1200</Attack>
+		<Defense>1200</Defense>
+		<Description>Toss a coin and call it. If you call it right, inflict 1000 points of damage to your opponent's Life Points. If you call it wrong, you take 1000 points of damage. You can only use this effect once per turn, during your Main Phase.</Description>
+	</Card>
+	<Card>
+		<Name>Absolute Crusader</Name>
+	<ImageUrl>https://ms.yugipedia.com//d/d8/AbsoluteCrusader-LEDD-EN-C-1E.png</ImageUrl>
+		<Attack>1800</Attack>
+		<Defense>1200</Defense>
+		<Description>When a Level 5 or higher monster is Special Summoned: Tribute this face-up card on the field; destroy that Level 5 or higher monster.</Description>
+	</Card>
+	<Card>
+		<Name>Absorbing Jar</Name>
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/5/56/AbsorbingJar-GAOV-EN-R-1E.png/revision/latest?cb=20131208070711</ImageUrl>
+		<Attack>600</Attack>
+		<Defense>500</Defense>
+		<Description>FLIP: Destroy all Set Spell/Trap Card on the field, then each player draws 1 card for each of the Card they controlled that was destroyed by this effect. You cannot Set any Card this turn.</Description>
+	</Card>
+	<Card>
+		<Name>Absorbing Kid from the Sky</Name>
+	<ImageUrl>https://ms.yugipedia.com//9/99/AbsorbingKidfromtheSky-DR2-EN-C-UE.jpg</ImageUrl>
+		<Attack>1300</Attack>
+		<Defense>1000</Defense>
+		<Description>"When this card destroys a monster and sends it to the Graveyard as a result of battle, increase your Life Points by the Level of the destroyed monster x 300 points."</Description>
+	</Card>
+	<Card>
+		<Name>Abyss Soldier</Name>
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/6/65/AbyssSoldier-CMC-EN-SR-UE.png/revision/latest?cb=20090116053600</ImageUrl>
+		<Attack>1800</Attack>
+		<Defense>1300</Defense>
+		<Description>Once per turn, by discarding 1 WATER monster to the Graveyard, return 1 card on the field to its owner's hand.</Description>
+	</Card>
+	<Card>
+		<Name>Abyssal Kingshark</Name>
+	<ImageUrl>https://static-3.studiobebop.net/ygo_data/card_variants/TAEV-EN084.jpg</ImageUrl>
+		<Attack>1700</Attack>
+		<Defense>600</Defense>
+		<Description>Once per turn, if this card would be destroyed by an effect that does not target it, it is not destroyed.</Description>
+	</Card>
+	<Card>
+		<Name>Achacha Archer</Name>
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/b/b2/AchachaArcher-YS13-EN-C-1E.png/revision/latest?cb=20150927135235</ImageUrl>
+		<Attack>1200</Attack>
+		<Defense>600</Defense>
+		<Description>When this card is Normal or Flip Summoned: Inflict 500 damage to your opponent.</Description>
+	</Card>
+	<Card>
+		<Name>Acorno</Name>
+	<ImageUrl>https://ms.yugipedia.com//thumb/0/02/Acorno-PHSW-EN-C-1E.png/300px-Acorno-PHSW-EN-C-1E.png</ImageUrl>
+		<Attack>200</Attack>
+		<Defense>400</Defense>
+		<Description>During your Main Phase: You can send 1 "Pinecono" from your hand to the Graveyard, and Special Summon this card from the hand.</Description>
+	</Card>
+	<Card>
+		<Name>Acrobat Monkey</Name>
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/1/1b/AcrobatMonkey-YSDS-EN-C-1E.png/revision/latest?cb=20090618185318</ImageUrl>
+		<Attack>1000</Attack>
+		<Defense>1800</Defense>
+		<Description>An autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically.</Description>
+	</Card>
+	<Card>
+		<Name>Adhesive Explosive</Name>
+	<ImageUrl>https://images-na.ssl-images-amazon.com/images/I/51pEUy62H0L._AC_.jpg</ImageUrl>
+		<Attack>1000</Attack>
+		<Defense>1000</Defense>
+		<Description>If your opponent's monster attacks this face-down Defenseense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. Destroy the equipped monster during the Standby Phase of your opponent's next</Description>
+	</Card>
+	<Card>
+		<Name>Adreus, Keeper of Armageddon</Name>
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/f/f6/AdreusKeeperofArmageddon-BP01-EN-R-1E.png/revision/latest?cb=20120616112919</ImageUrl>
+		<Attack>2600</Attack>
+		<Defense>1700</Defense>
+		<Description>2 Level 5 monsters. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up card your opponent controls; destroy it.</Description>
+	</Card>
+	<Card>
+		<Name>Agido</Name>
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/b/bc/Agido-DR1-EN-C-UE.png/revision/latest?cb=20160608210325</ImageUrl>
+		<Attack>1500</Attack>
+		<Defense>1300</Defense>
+		<Description>"When this card is destroyed and sent to the Graveyard as a result of battle, roll a six-sided die. You can Special Summon 1 Fairy-Type monster from your Graveyard whose Level is equal to the number rolled. (If the result is 6, you can Special Summon a Le</Description>
+	</Card>
+	<Card>
+		<Name>Air Armor Ninja</Name>
+	<ImageUrl>https://ygoprodeck.com/pics/69023354.jpg</ImageUrl>
+		<Attack>1400</Attack>
+		<Defense>1400</Defense>
+		<Description>When this card is Summoned: You can target 1 face-up "Ninja" monster you control; reduce its Level by 1.</Description>
+	</Card>
+	<Card>
+		<Name>Airknight Parshath</Name>		
+	<ImageUrl>https://images-na.ssl-images-amazon.com/images/I/51KsSslN0-L._AC_.jpg</ImageUrl>
+		<Attack>1900</Attack>
+		<Defense>1400</Defense>
+		<Description>During battle between this attacking card and a Defenseense Position monster whose Defense is lower than the Attack of this card, inflict the difference as Battle Damage to your opponent. When this card inflicts Battle Damage to your opponent, draw 1 card.</Description>
+	</Card>
+	<Card>
+		<Name>Airorca</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/0/02/Airorca-BP03-EN-C-1E.png/300px-Airorca-BP03-EN-C-1E.png</ImageUrl>
+		<Attack>1400</Attack>
+		<Defense>300</Defense>
+		<Description>Once per turn: You can banish 1 Fish, Sea Serpent, or Aqua-Type monster from your hand to target 1 face-up card your opponent controls; destroy that target, then banish this card until your next Standby Phase.</Description>
+	</Card>
+	<Card>
+		<Name>Aitsu</Name>		
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/d/d8/Aitsu-DR1-EN-C-UE.jpg/revision/latest?cb=20130103020859</ImageUrl>
+		<Attack>100</Attack>
+		<Defense>100</Defense>
+		<Description>"He seems to be very unreliable, but he might have incredible potential."</Description>
+	</Card>
+	<Card>
+		<Name>Akz, the Pumer</Name>		
+	<ImageUrl>https://ygoprodeck.com/pics/38837163.jpg</ImageUrl>
+		<Attack>1500</Attack>
+		<Defense>1000</Defense>
+		<Description>This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 Beast-Warrior-Type monsters in your Graveyard. Once per turn, you can discard 1 Beast-Warrior-Type monster from your hand to activate 1 of the follo</Description>
+	</Card>
+	<Card>
+		<Name>Alchemist of Black Spells</Name>		
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/b/b0/AlchemistofBlackSpells-ABPF-EN-UR-1E.png/revision/latest?cb=20100220053123</ImageUrl>
+		<Attack>1200</Attack>
+		<Defense>1800</Defense>
+		<Description>Once per turn, you can change this face-up Attack Position card you control to face-up Defenseense Position and place 1 Spell Counter on a face-up card you control that you can place a Spell Counter on.</Description>
+	</Card>
+	<Card>
+		<Name>Alector, Sovereign of Birds</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/8/8e/AlectorSovereignofBirds-BP01-EN-SFR-1E.png/300px-AlectorSovereignofBirds-BP01-EN-SFR-1E.png</ImageUrl>
+		<Attack>2400</Attack>
+		<Defense>2000</Defense>
+		<Description>If your opponent controls 2 or more face-up monsters of the same Attribute, you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up card on the field; its effect(s) on the field are negated during this turn. There can on</Description>
+	</Card>
+	<Card>
+		<Name>Alexandrite Dragon</Name>		
+	<ImageUrl>https://ms.yugipedia.com//a/a7/AlexandriteDragon-LDK2-EN-C-1E.png</ImageUrl>
+		<Attack>2000</Attack>
+		<Defense>100</Defense>
+		<Description>Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.</Description>
+	</Card>
+	<Card>
+		<Name>Alien Ammonite</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/0/09/AlienAmmonite-CRMS-EN-R-1E.png/300px-AlienAmmonite-CRMS-EN-R-1E.png</ImageUrl>
+		<Attack>500</Attack>
+		<Defense>200</Defense>
+		<Description>When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower "Alien" monster from your Graveyard. Destroy it during the End Phase.</Description>
+	</Card>
+	<Card>
+		<Name>Alien Dog</Name>		
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/7/7a/AlienDog-RGBT-EN-C-1E.png/revision/latest?cb=20090503065733</ImageUrl>
+		<Attack>1500</Attack>
+		<Defense>1000</Defense>
+		<Description>When you Normal Summon an "Alien" monster, you can Special Summon this card from your hand. When you do, place 2 A-Counters on face-up monster(s) your opponent controls.</Description>
+	</Card>
+	<Card>
+		<Name>Alien Grey</Name>		
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/f/fb/AlienGrey-POTD-EN-C-1E.jpg/revision/latest?cb=20061027031939</ImageUrl>
+		<Attack>300</Attack>
+		<Defense>800</Defense>
+		<Description>FLIP: Place 1 A-Counter on 1 face-up monster on your opponent's side of the field. (If a monster with an A-Counter battles an "Alien" monster, it loses 300 Attack and Defense for each A-Counter during damage calculation only.) After this card has been flipped fa</Description>
+	</Card>
+	<Card>
+		<Name>Alien Hunter</Name>		
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/0/04/AlienHunter-POTD-EN-C-1E.jpg/revision/latest?cb=20061027031822</ImageUrl>
+		<Attack>1600</Attack>
+		<Defense>800</Defense>
+		<Description>If this card destroys a monster with an A-Counter by battle, it can attack once again in a row.</Description>
+	</Card>
+	<Card>
+		<Name>Alien Hypno</Name>		
+	<ImageUrl>https://images-na.ssl-images-amazon.com/images/I/51KIqbhwZ2L._AC_.jpg</ImageUrl>
+		<Attack>1600</Attack>
+		<Defense>700</Defense>
+		<Description>This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field you can Normal Summon it to have it be treated as an Effect Monster with this effect: During your Main Phase, you can select 1</Description>
+	</Card>
+	<Card>
+		<Name>Alien Infiltrator</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/a/a0/AlienInfiltrator-CDIP-EN-C-UE.png/300px-AlienInfiltrator-CDIP-EN-C-UE.png</ImageUrl>
+		<Attack>800</Attack>
+		<Defense>500</Defense>
+		<Description>Once per turn, this card can move to an adjacent unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent's side of the field is in the same column as this card, it can attack your opponent directly.</Description>
+	</Card>
+	<Card>
+		<Name>Alien Kid</Name>		
+	<ImageUrl>https://images-na.ssl-images-amazon.com/images/I/51f3AnsMW7L._AC_.jpg</ImageUrl>
+		<Attack>1600</Attack>
+		<Defense>700</Defense>
+		<Description>Place 1 A-Counter on all monsters Special Summoned to your opponent's side of the field. (If a monster with an A-Counter battles an "Alien" monster, it loses 300 Attack and Defense for each A-Counter during damage calculation only.)</Description>
+	</Card>
+	<Card>
+		<Name>Alien Mars</Name>		
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/f/f8/AlienMars-CDIP-EN-C-1E.jpg/revision/latest?cb=20070219022234</ImageUrl>
+		<Attack>1000</Attack>
+		<Defense>1000</Defense>
+		<Description>The effects of Effect Monsters with A-Counters are negated, except for "Alien Mars".</Description>
+	</Card>
+	<Card>
+		<Name>Alien Mother</Name>		
+	<ImageUrl>https://cdn11.bigcommerce.com/s-zzauv1ua/images/stencil/1280x1280/products/214384/224508/94d4d0a6-be03-4930-917a-577f53d0ea5f__88614.1598197970.jpg?c=2</ImageUrl>
+		<Attack>2300</Attack>
+		<Defense>1500</Defense>
+		<Description>If this card destroys a monster with an A-Counter by battle and sends it to the Graveyard, Special Summon the destroyed monster to your side of the field at the end of the Battle Phase. When this card is removed from the field, all monsters that were Spec</Description>
+	</Card>
+	<Card>
+		<Name>Alien Overlord</Name>		
+	<ImageUrl>https://ms.yugipedia.com//5/5f/AlienOverlord-CRMS-EN-R-1E.png</ImageUrl>
+		<Attack>2200</Attack>
+		<Defense>1600</Defense>
+		<Description>You can remove 2 A-Counters from anywhere on the field to Special Summon this card from your hand. Once per turn, you can place 1 A-Counter on each face-up monster your opponent controls. (If a monster with an A-Counter battles an "Alien" monster, it lose</Description>
+	</Card>
+	<Card>
+		<Name>Alien Psychic</Name>		
+	<ImageUrl>https://images-na.ssl-images-amazon.com/images/I/81RNB%2B64ReL._AC_SY679_.jpg</ImageUrl>
+		<Attack>200</Attack>
+		<Defense>100</Defense>
+		<Description>This card is changed to Defenseense Position when it is Normal Summoned or Flip Summoned. Monsters with A-Counters cannot declare an attack.</Description>
+	</Card>
+	<Card>
+		<Name>Alien Shocktrooper</Name>		
+	<ImageUrl>https://ms.yugipedia.com//0/03/AlienShocktrooper-TAEV-EN-C-UE.png</ImageUrl>
+		<Attack>1900</Attack>
+		<Defense>800</Defense>
+		<Description>The Aliens have used a mysterious biological substance to create a supreme race of soldiers. They do not have the natural powers of the other Aliens, but can make stunning physical attacks.</Description>
+	</Card>
+	<Card>
+		<Name>Alien Skull</Name>		
+	<ImageUrl>https://images-na.ssl-images-amazon.com/images/I/41Q-Uh18LWL._AC_.jpg</ImageUrl>
+		<Attack>1600</Attack>
+		<Defense>1800</Defense>
+		<Description>You can Tribute 1 face-up Level 3 or lower monster on your opponent's side of the field to Special Summon this card to your opponent's side of the field. If you Special Summon this monster this way, place 1 A-Counter on this card, and you cannot Normal Su</Description>
+	</Card>
+	<Card>
+		<Name>Alien Telepath</Name>		
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/6/61/AlienTelepath-GLAS-EN-R-1E.png/revision/latest?cb=20140704155218</ImageUrl>
+		<Attack>1600</Attack>
+		<Defense>1000</Defense>
+		<Description>Once per turn, you can remove 1 A-Counter from an opponent's monster to destroy 1 Spell or Trap Card. (If a monster with an A-Counter battles an "Alien" monster, it loses 300 Attack and Defense for each A-Counter during damage calculation only.)</Description>
+	</Card>
+	<Card>
+		<Name>Alien Warrior</Name>		
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/8/80/AlienWarrior-POTD-EN-R-1E.png/revision/latest?cb=20150310144432</ImageUrl>
+		<Attack>1800</Attack>
+		<Defense>1000</Defense>
+		<Description>When this card is destroyed by battle and sent to the Graveyard, place 2 A-Counters on the monster that destroyed it. (If a monster with an A-Counter battles an "Alien" monster, it loses 300 Attack and Defense for each A-Counter during damage calculation only.)</Description>
+	</Card>
+	<Card>
+		<Name>Allure Queen LV3</Name>		
+	<ImageUrl>https://www.deckboosters.com/image/cache//catalog/deckboosters/products/yugioh-single-cards/cdip-yugioh-cards/CDIP-EN006-yugioh-card-655x655.jpg</ImageUrl>
+		<Attack>500</Attack>
+		<Defense>500</Defense>
+		<Description>Once per turn, during your Main Phase, you can select 1 Level 3 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equ</Description>
+	</Card>
+	<Card>
+		<Name>Allure Queen LV5</Name>		
+	<ImageUrl>https://52f4e29a8321344e30ae-0f55c9129972ac85d6b1f4e703468e6b.ssl.cf2.rackcdn.com/products/pictures/1154474.jpg</ImageUrl>
+		<Attack>1000</Attack>
+		<Defense>1000</Defense>
+		<Description>Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV3", you can select 1 Level 5 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped</Description>
+	</Card>
+	<Card>
+		<Name>Allure Queen LV7</Name>		
+	<ImageUrl>https://storage.googleapis.com/ygoprodeck.com/pics/50140163.jpg</ImageUrl>
+		<Attack>1500</Attack>
+		<Defense>1500</Defense>
+		<Description>Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV5", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effec</Description>
+	</Card>
+	<Card>
+		<Name>Ally Mind</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/7/71/AllyMind-HA02-EN-SR-1E.png/300px-AllyMind-HA02-EN-SR-1E.png</ImageUrl>
+		<Attack>1800</Attack>
+		<Defense>1400</Defense>
+		<Description>A high-performance unit developed to enhance the Artificial Intelligence program in Allies of Justice. Loaded with elements collected from a meteor from the Worm Nebula, it allows for high tuning performance, but its true capacity is not yet uncovered.</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Catastor</Name>		
+	<ImageUrl>https://static.wikia.nocookie.net/yugioh/images/1/12/AllyofJusticeCatastor-CT10-EN-SR-LE.png/revision/latest?cb=20150522123728</ImageUrl>
+		<Attack>2200</Attack>
+		<Defense>1200</Defense>
+		<Description>1 Tuner + 1 or more non-Tuner monsters. If this card battles a non-DARK monster, destroy that monster without applying damage calculation.</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Clausolas</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/b/b3/AllyofJusticeClausolas-SBCB-EN-C-1E.png/300px-AllyofJusticeClausolas-SBCB-EN-C-1E.png</ImageUrl>
+		<Attack>2300</Attack>
+		<Defense>1200</Defense>
+		<Description>A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solias. Its surprise attacks from above baffle invaders.</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Core Destroyer</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/8/84/AllyofJusticeCoreDestroyer-SBSC-EN-C-1E.png/300px-AllyofJusticeCoreDestroyer-SBSC-EN-C-1E.png</ImageUrl>
+		<Attack>1200</Attack>
+		<Defense>200</Defense>
+		<Description>If this card attacks or is attacked by a LIGHT monster, destroy that monster at the start of the Damage Step (without damage calculation).</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Cosmic Gateway</Name>		
+	<ImageUrl>https://static-3.studiobebop.net/ygo_data/card_images/Ally_of_Justice_Cosmic_Gateway.jpg</ImageUrl>
+		<Attack>2400</Attack>
+		<Defense>1200</Defense>
+		<Description>If your opponent controls 2 or more monsters, including a LIGHT monster, you can Special Summon this card from your hand.</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Cycle Reader</Name>		
+	<ImageUrl>https://static-3.studiobebop.net/ygo_data/card_variants/OP03-EN006.jpg</ImageUrl>
+		<Attack>1000</Attack>
+		<Defense>1000</Defense>
+		<Description>During either player's turn, you can discard this card to select and remove from play up to 2 LIGHT monsters from your opponent's Graveyard.</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Decisive Armor</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/a/a9/AllyofJusticeDecisiveArmor-HA03-EN-ScR-1E.png/300px-AllyofJusticeDecisiveArmor-HA03-EN-ScR-1E.png</ImageUrl>
+		<Attack>3300</Attack>
+		<Defense>3300</Defense>
+		<Description>1 Tuner + 2 or more non-Tuner monsters. Once per turn, if your opponent controls a face-up LIGHT monster(s), you can activate 1 of these effects: Select 1 Set card your opponent controls and destroy it. Send 1 card from your hand to the Graveyard to de</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Enemy Catcher</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/1/15/AllyofJusticeEnemyCatcher-HA02-EN-SR-1E.png/300px-AllyofJusticeEnemyCatcher-HA02-EN-SR-1E.png</ImageUrl>
+		<Attack>1800</Attack>
+		<Defense>1800</Defense>
+		<Description>When this card is Normal Summoned, you can gain control of 1 face-down Defenseense Position monster your opponent controls until the End Phase.</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Field Marshal</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/8/83/AllyofJusticeFieldMarshal-HA02-EN-ScR-1E.jpg/300px-AllyofJusticeFieldMarshal-HA02-EN-ScR-1E.jpg</ImageUrl>
+		<Attack>2900</Attack>
+		<Defense>2600</Defense>
+		<Description>1 Tuner + 2 or more non-Tuner monsters. This card cannot be Special Summoned except by Synchro Summon. When this card destroys a face-down Defenseense Position monster by battle and sends it to the Graveyard, draw 1 card.</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Garadholg</Name>		
+	<ImageUrl>https://static-3.studiobebop.net/ygo_data/card_images/Ally_of_Justice_Garadholg.jpg</ImageUrl>
+		<Attack>1600</Attack>
+		<Defense>400</Defense>
+		<Description>If this card battles a LIGHT monster, it gains 200 Attack during the Damage Step only.</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Light Gazer</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/c/c3/AllyofJusticeLightGazer-TSHD-EN-SR-1E.png/300px-AllyofJusticeLightGazer-TSHD-EN-SR-1E.png</ImageUrl>
+		<Attack>2400</Attack>
+		<Defense>1600</Defense>
+		<Description>1 Tuner + 1 or more non-Tuner monsters. This card gains 200 Attack for each LIGHT monster in your opponent's Graveyard.</Description>
+	</Card>
+	<Card>
+		<Name>Ally of Justice Nullfier</Name>		
+	<ImageUrl>https://ms.yugipedia.com//thumb/8/8c/AllyofJusticeNullfier-HA02-EN-SR-1E.png/300px-AllyofJusticeNullfier-HA02-EN-SR-1E.png</ImageUrl>
+		<Attack>1600</Attack>
+		<Defense>1200</Defense>
+		<Description>The effects of LIGHT monsters that battle this card are negated.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally of Justice Omni-Weapon</Name>		
+		<Attack>2200</Attack>
+		<Defense>800</Defense>
+		<Description>When this card destroys a LIGHT monster by battle and sends it to the Graveyard, draw 1 card. If that card is a Level 4 or lower DARK monster, you can reveal that card to Special Summon it.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally of Justice Quarantine</Name>		
+		<Attack>1700</Attack>
+		<Defense>1200</Defense>
+		<Description>Neither player can Special Summon LIGHT monsters.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally of Justice Reverse Break</Name>		
+		<Attack>1200</Attack>
+		<Defense>1200</Defense>
+		<Description>If a face-up LIGHT monster is on the field, destroy this card. If this card attacks a face-down Defenseense Position monster, destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally of Justice Rudra</Name>		
+		<Attack>1900</Attack>
+		<Defense>1200</Defense>
+		<Description>If this card battles a LIGHT monster, it gains 700 Attack during the Damage Step only.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally of Justice Searcher</Name>		
+		<Attack>1400</Attack>
+		<Defense>100</Defense>
+		<Description>Once per turn, you can discard 1 card to flip 1 face-down Defenseense Position monster your opponent controls to face-up Attack Position. Flip Effects are not activated at that time.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally of Justice Thousand Arms</Name>		
+		<Attack>1700</Attack>
+		<Defense>0</Defense>
+		<Description>This card can attack all face-up LIGHT monsters your opponent controls once each. If this card battles a non-LIGHT monster, destroy this card before damage calculation.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally of Justice Thunder Armor</Name>		
+		<Attack>2700</Attack>
+		<Defense>2200</Defense>
+		<Description>This card cannot be Special Summoned. While you control this face-up card, during battle between an attacking "Ally of Justice" monster you control and a Defenseense Position monster whose Defense is lower than the Attack of the attacking monster, inflict the differ</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally of Justice Unknown Crusher</Name>		
+		<Attack>1200</Attack>
+		<Defense>800</Defense>
+		<Description>When this card battles a LIGHT monster, remove that monster from play after damage calculation.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally of Justice Unlimiter</Name>		
+		<Attack>600</Attack>
+		<Defense>200</Defense>
+		<Description>You can Tribute this card to double the original Attack of 1 face-up "Ally of Justice" monster you control until the End Phase.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Ally Salvo</Name>		
+		<Attack>400</Attack>
+		<Defense>300</Defense>
+		<Description>When this card is destroyed by battle with a LIGHT monster and sent to the Graveyard, select 2 Card on the field and destroy them.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Alpha The Magnet Warrior</Name>		
+		<Attack>1400</Attack>
+		<Defense>1700</Defense>
+		<Description>Alpha, Beta, and Gamma meld as one to form a powerful monster.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazon Archer</Name>		
+		<Attack>1400</Attack>
+		<Defense>1000</Defense>
+		<Description>Offer 2 monsters on your side of the field as a Tribute to inflict 1200 points of Direct Damage to your opponent's Life Points. Monsters used for a Tribute Summon or that are offered as Tributes due to other Card' effects are excluded.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazon of the Seas</Name>		
+		<Attack>1300</Attack>
+		<Defense>1400</Defense>
+		<Description>A mermaid who serves as herald of the Ocean Lord. She protects the sacred domain of Atlantis.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazoness Archer</Name>		
+		<Attack>1400</Attack>
+		<Defense>1000</Defense>
+		<Description>You can Tribute 2 monsters to inflict 1200 damage to your opponent.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazoness Blowpiper</Name>		
+		<Attack>800</Attack>
+		<Defense>1500</Defense>
+		<Description>Select 1 face-up monster your opponent controls during each of your Standby Phases. It loses 500 Attack until the end of this turn.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazoness Chain Master</Name>		
+		<Attack>1500</Attack>
+		<Defense>1300</Defense>
+		<Description>When this monster is destroyed by battle and sent to the Graveyard, you can pay 1500 Life Points to look at your opponent's hand, select 1 Monster Card in it, and add that card to your hand.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazoness Fighter</Name>		
+		<Attack>1500</Attack>
+		<Defense>1300</Defense>
+		<Description>You take no Battle Damage from battles involving this card.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazoness Paladin</Name>		
+		<Attack>1700</Attack>
+		<Defense>300</Defense>
+		<Description>This card gains 100 Attack for each "Amazoness" monster you control.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazoness Queen</Name>		
+		<Attack>2400</Attack>
+		<Defense>1800</Defense>
+		<Description>"Amazoness" monsters you control cannot be destroyed by battle.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazoness Sage</Name>		
+		<Attack>1400</Attack>
+		<Defense>700</Defense>
+		<Description>If this card attacks, select 1 Spell or Trap Card your opponent controls and destroy it at the end of the Damage Step.</Description>
+	</Card>
+	<Card>
+	<ImageUrl></ImageUrl>
+		<Name>Amazoness Scouts</Name>		
+		<Attack>500</Attack>
+		<Defense>1100</Defense>
+		<Description>During either player's turn, you can Tribute this card. If you do, during this turn, face-up "Amazoness" monsters you control cannot be targeted by Effect Monsters' effects and cannot be destroyed by the effects of Spells, Traps or Effect Monsters.</Description>
+	</Card>
+</Cards>
